@@ -1,5 +1,4 @@
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
-import styled from 'styled-components';
 import Home from './components/Home';
 import SingleMovie from './components/SingleMovie';
 
